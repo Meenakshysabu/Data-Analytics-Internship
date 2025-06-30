@@ -63,7 +63,8 @@ The Sales Dashboard visualizes critical metrics including sales, profit, cost, c
 
 ## 🛠 Tools Used
 
-- Microsoft Power BI  
+- Microsoft Power BI
+- Tableau
 - Microsoft Excel (Data Preparation)  
 - DAX (for KPIs and measures)
 
