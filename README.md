@@ -41,7 +41,7 @@ Each project included data exploration, visualization, and the creation of dynam
 
 ## 📝 Internship Certificate
 
-📄 [View Certificate on LinkedIn](www.linkedin.com/in/meenakshy-sabu-741226321)  
+📄 View Certificate on LinkedIn-www.linkedin.com/in/meenakshy-sabu-741226321
 
 
 ---
@@ -54,7 +54,7 @@ I’m grateful to **Nextgen** for the opportunity to gain real-world experience 
 
 ## 📬 Contact
 
-🔗 [LinkedIn](www.linkedin.com/in/meenakshy-sabu-741226321)  
+🔗 LinkedIn-www.linkedin.com/in/meenakshy-sabu-741226321
 
 
 ---
